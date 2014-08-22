@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Title page</string>
+		<key>page</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Credits</string>
+		<key>page</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Introduction - Visvarath Conquers India</string>
+		<key>page</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Visvarath's Cow</string>
+		<key>page</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Visvarath becomes Visvamitra</string>
+		<key>page</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Acknowledgements</string>
+		<key>page</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>devata pranam</string>
+		<key>page</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>dhyanam - meditations</string>
+		<key>page</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Song of the Thousand Names of the Goddess Gayatri</string>
+		<key>page</key>
+		<integer>47</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thousand Names of the Goddess Gayatri for making oblations to the Divine Fire</string>
+		<key>page</key>
+		<integer>80</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Books by Shree Maa and Swami Satyananda Saraswati</string>
+		<key>page</key>
+		<integer>211</integer>
+	</dict>
+</array>
+</plist>
